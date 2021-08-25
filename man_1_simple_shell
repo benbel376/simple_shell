@@ -1,6 +1,8 @@
 .TH hsh 1 "August 31, 2021" "1.0" "hsh General Commands Manual"
 
-.SH NAME
+.SH NAM
+
+E
 
 .B simple_shell - hsh
 - command line interpreter or shell
