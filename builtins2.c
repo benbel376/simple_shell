@@ -91,7 +91,7 @@ char *add_value(char *key, char *value)
  *  * _atoi - converts a string into an integer.
  *   * @str: string to convert.
  *    *
- *     * Return: the integer value, or -1 if an error occurs
+ *     * Return: the integer value, or -1 if an error occurs.
  *      */
 int _atoi(char *str)
 {
