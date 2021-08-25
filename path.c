@@ -155,7 +155,7 @@ int execute_cwd(vars_t *vars)
 }
 /**
  *  * check_for_dir - checks if the command is a part of a path.
- *   * @str: command
+ *   * @str: command.
  *    *
  *     * Return: 1 on success, 0 on failure
  *      */
