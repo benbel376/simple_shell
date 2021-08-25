@@ -20,6 +20,7 @@
  * @count: count of commands entered
  * @argv: arguments at opening of shell
  * @status: exit status
+ * @commands: list of commands
  */
 typedef struct variables
 {
