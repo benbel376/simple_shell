@@ -1,1 +1,1 @@
-simple shell project alx with group of two.
+simple shell project alx
