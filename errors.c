@@ -48,7 +48,7 @@ void _puts2(char *str)
 
 /**
  *  * _uitoa - converts an unsigned int to a string.
- *   * @count: unsigned int to convert
+ *   * @count: unsigned int to convert.
  *    *
  *     * Return: pointer to the converted string
  *      */
